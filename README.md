@@ -1,4 +1,4 @@
-# Data Pipelines Azure
+# Data Pipelines in Azure
 Create automated pipelines in Azure to ingest, transform and analyse payroll data
 Project purpose
 This project helps New York City better understand how public money is spent—especially on employee salaries and overtime. It's part of Udacity’s “Data Engineering with Microsoft Azure” program, focuses on building real-world skills in working with large-scale data systems. The solution uses tools like Azure Synapse Analytics, Data Factory, and Data Lake Gen2 to create automated data pipelines. These pipelines clean and organize raw payroll data, turning it into useful summaries that can guide budget decisions and make the city’s finances more transparent for everyone.
